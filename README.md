@@ -15,7 +15,7 @@ This Python script is designed to generate a report from specified Discord serve
 Before running this script, ensure you have the following:
 
 - Python 3.x installed on your machine.
-- `discord.py` library installed. You can install it via pip3:
+- `discord.py` library and pandas installed. You can install both via pip3:
   ```bash
   pip3 install discord.py
   pip3 install pandas
