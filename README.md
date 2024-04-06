@@ -18,3 +18,8 @@ Before running this script, ensure you have the following:
 - `discord.py` library installed. You can install it via pip3:
   ```bash
   pip3 install discord.py
+  pip3 install pandas
+
+## Run the script
+
+  python3 discord_report_generator.py
